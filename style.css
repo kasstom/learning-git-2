@@ -1,15 +1,16 @@
 body {
-	background-color: #00dcc8;
+		background-color: #00dcc8;
 	margin:0px;
 }
 .container {
 	width: 100%;
-	
+					
 	margin: 0 auto;
 	text-align: center;
 }
 .container p {
 	padding: 30px;
+color: #fff;
 }
 
 
