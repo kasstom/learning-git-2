@@ -4,11 +4,7 @@ body {
 }
 .container {
 	width: 100%;
-<<<<<<< HEAD
-	max-width: 900px;	
-=======
-					
->>>>>>> branch_2
+	
 	margin: 0 auto;
 	text-align: center;
 }
